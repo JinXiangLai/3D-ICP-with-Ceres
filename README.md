@@ -1,4 +1,3 @@
 # 3D-ICP-with-Ceres
 result:
-![remmina_screenshot-2021-7-11-12:34:10 980848](https://user-images.githubusercontent.com/62703436/212466919-f84fc918-91ff-4e88-bb4b-468f8e7e4f0e.png)
-
+![Screenshot from 2023-01-14 18-10-44](https://user-images.githubusercontent.com/62703436/212466941-8584b148-e883-420a-81be-7207e73130c6.png)
